@@ -1,0 +1,13 @@
+name = "Roughly Enough Items (REI)"
+filename = "RoughlyEnoughItems-12.1.750-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nfn13YXA/versions/xKL5qwgy/RoughlyEnoughItems-12.1.750-forge.jar"
+hash-format = "sha512"
+hash = "f5c90ead37bec40df23f6c94cea1d6adaacc82a241265662028924c661c78c4fd9a415c33cae3e43d5d4ad4ce32601c6170da966314fde2f74a6de9db96bbc39"
+
+[update]
+[update.modrinth]
+mod-id = "nfn13YXA"
+version = "xKL5qwgy"

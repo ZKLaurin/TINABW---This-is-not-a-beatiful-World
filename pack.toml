@@ -1,0 +1,13 @@
+name = "TINABW - This is not a beatiful World"
+author = "ZKLaurin"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "59be3a2975ab27e8bcdf21e3abafbec65a92d0ef0f69331b32a9ec5a3f6b4e89"
+
+[versions]
+forge = "47.3.7"
+minecraft = "1.20.1"
