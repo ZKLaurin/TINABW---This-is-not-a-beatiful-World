@@ -5,6 +5,11 @@ file = "icon.png"
 hash = "ed8eaead1f788c642d38800e0767a4c4e5606a7472d0c4d33dca400233d248ac"
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "411c7f45960d3e5e5321ad7c4365a623bf881de361ed69359df2b01c5d8df76f"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "8c58d0bfdfce2f4fe94cee75a2100b3a266f69b15149d53f93a2684775e6ee5c"
 metafile = true
@@ -320,6 +325,11 @@ hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "1ee9ae66f682c9d0eeecf4f770c82ad3a2b974d9a59c324ae6c91bd46ee0df6f"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "b7ecee30eb1d3ccc93819c6ada410f167602b3f45c069d54b41512729c52807e"
 metafile = true
@@ -332,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "2f09963a2f6b3d040dbcaac349b0e3ce4958aec423d19f70c7bcabfa8b6ed39c"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "8c3142ad4fe843d42114c6a5bc8c92ecd80aa69492e4350891383d57aa5dfa37"
 metafile = true
 
 [[files]]
